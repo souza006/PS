@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GPkR-wVxt_Xprj9q7YH9kA" name=",_LnwRIBGaEeq9RLU6GH6FqQ" guid="-GPkR-wVxt_Xprj9q7YH9kA">
-  <mainDescription>A Ferramenta de Seleção de Ideias é um instrumento que auxilia na escolha da ideia que apresente maior viabilidade para&#xD;
-implementação. Para isso, você deve atribuir indicadores que variam de peso entre 1, 3 e 5 para as áreas de Prazo de&#xD;
-Implantação, Investimento e Potencial de Retorno. Ao fim deste processo, a ideia que apresentar o maior somatório deve ser&#xD;
-considerada para implementação no curto prazo. Logo após, a segunda maior deve -ser encarada como ideia a ser implantada no&#xD;
-médio prazo. Já as demais ideias, devem ser planejadas para futura implantação no longo prazo.</mainDescription>
-  <purpose>Auxiliar na escolha da ideia que apresente maior viabilidade para implementação.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

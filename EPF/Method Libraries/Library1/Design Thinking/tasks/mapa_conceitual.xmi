@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SdRjGee9_zeW9rtcETlNLg" name=",_Kq8ZsBGREeq9RLU6GH6FqQ" guid="-SdRjGee9_zeW9rtcETlNLg">
-  <mainDescription>É uma visualização gráfica, construída para organizar visualmente dados complexos de campo, em diferentes níveis de&#xD;
-profundidade e abstração. Dessa forma, este instrumento busca ilustrar as relações entre as informações e, com isso, gerar&#xD;
-novos insights.</mainDescription>
-  <purpose>Organizar visualmente dados complexos de campo.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ED_w6aqvAFv4PB-wFsrKYQ" name=",_A-O4QBGbEeq9RLU6GH6FqQ" guid="-ED_w6aqvAFv4PB-wFsrKYQ" changeDate="2019-11-28T02:54:28.815-0200">
-  <mainDescription>São representações de interfaces gráficas com diferentes níveis de fidelidade, desde desenhos à mão até uma embalagem com&#xD;
-detalhes finais de texto e cores.</mainDescription>
-  <purpose>Visualizar um possivel visual de algum trecho do projeto.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

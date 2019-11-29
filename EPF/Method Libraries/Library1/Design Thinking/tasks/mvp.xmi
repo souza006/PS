@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZETZX7BSVKzgAwcXqcGePw" name=",_tXVfQBGcEeq9RLU6GH6FqQ" guid="-ZETZX7BSVKzgAwcXqcGePw">
-  <mainDescription>O Mínimo Produto Viável (MVP) também é uma versão simplificada da sua ideia. Assim, diferentemente do protótipo, onde você&#xD;
-permite que os seus potenciais clientes testem o seu produto ou façam uso do serviço de forma gratuita, o MVP deve testar a&#xD;
-viabilidade comercial da sua ideia.</mainDescription>
-  <purpose>Testar a viabilidade comercial da sua ideia.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

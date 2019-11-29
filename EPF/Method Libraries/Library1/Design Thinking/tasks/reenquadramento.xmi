@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AQcvX48wThBDJwSS03pGVA" name="reenquadramento,_R2kT4BGGEeq9RLU6GH6FqQ" guid="-AQcvX48wThBDJwSS03pGVA" changeDate="2019-11-28T00:52:54.775-0200">
-  <mainDescription>O reenquadramento busca examinar problemas ou questões não resolvidas em uma empresa sob diferentes perspectivas e diversos&#xD;
-ângulos. Deve-se buscar a desconstrução das crenças e suposições, e quebrar seus padrões de pensamento, afastando os&#xD;
-paradigmas dentro do ambiente a ser pesquisado.</mainDescription>
-  <purpose>&lt;p>&#xD;
-    examinar problemas e questões mal resolvidas.&#xD;
-&lt;/p></purpose>
-</org.eclipse.epf.uma:TaskDescription>

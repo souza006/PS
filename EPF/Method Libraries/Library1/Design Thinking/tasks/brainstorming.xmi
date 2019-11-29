@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-orPVp5Stl2Z91ny27WZxTw" name=",_dwYuoBGTEeq9RLU6GH6FqQ" guid="-orPVp5Stl2Z91ny27WZxTw" changeDate="2019-11-28T02:04:22.652-0200">
-  <mainDescription>Também conhecida como “tempestade de ideias”, Brainstorming é uma técnica de dinâmica de grupo, voltada a desenvolver e&#xD;
-explorar a potencialidade criativa de um indivíduo ou de um grupo (criatividade em equipe), colocando-a a serviço de&#xD;
-objetivos pré-determinados.</mainDescription>
-  <purpose>Desenvolver e explorar a potencialidade criativa de um indivíduo ou de um grupo.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

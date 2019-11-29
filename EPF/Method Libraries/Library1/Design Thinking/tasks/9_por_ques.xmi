@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0jFKrNgqrvQCMHVM-Qjilw" name=",_t0Em8BGOEeq9RLU6GH6FqQ" guid="-0jFKrNgqrvQCMHVM-Qjilw" changeDate="2019-11-28T01:29:15.674-0200">
-  <mainDescription>&lt;p>&#xD;
-    Eliminar duvidas, e possiveis confusões sobre as causas de uma situação, e refinar todo o conhecimento possivel sobre a&#xD;
-    mesma.&#xD;
-&lt;/p></mainDescription>
-  <purpose>Ao perguntar “Por quê?” Tantas vezes seguidas, você pode finalmente entender claramente por que está se reunindo e qual é o&#xD;
-objetivo da sua reunião.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

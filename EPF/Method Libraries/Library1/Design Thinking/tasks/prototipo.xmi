@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XJZkAm7IV7trL1Fm9YPuPg" name=",_ZSJ5sBGcEeq9RLU6GH6FqQ" guid="-XJZkAm7IV7trL1Fm9YPuPg">
-  <mainDescription>Prototipar é uma das formas de validar o lançamento do seu novo serviço e/ou produto. Isto pode ser feito através da&#xD;
-caracterização real do seu produto ou uma demonstração do seu serviço.</mainDescription>
-  <purpose>&lt;span style=&quot;FONT-WEIGHT: 400&quot;>O objetivo da prototipação é testar não somente a usabilidade prática como também analisar a&#xD;
-sua aceitação.&lt;/span></purpose>
-</org.eclipse.epf.uma:TaskDescription>

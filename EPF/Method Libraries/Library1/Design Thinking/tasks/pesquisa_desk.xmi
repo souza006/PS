@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G9fHLmtW0pfM2cRc91nC0g" name=",_uwIt8BGLEeq9RLU6GH6FqQ" guid="-G9fHLmtW0pfM2cRc91nC0g" changeDate="2019-11-28T01:05:08.979-0200">
-  <mainDescription>É uma busca de informações sobre o tema do projeto em fontes diversas (websites, livros, revistas, blogs, artigos, entre&#xD;
-outros). O nome Desk origina-se de desktop, e é utilizado porque a maioria das pesquisas realizadas atualmente são feitas&#xD;
-na internet.</mainDescription>
-  <purpose>&lt;p>&#xD;
-    Ter uma base do tema abordado pelo projeto.&#xD;
-&lt;/p></purpose>
-</org.eclipse.epf.uma:TaskDescription>

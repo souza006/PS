@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0SHvQB_Pcqq9AWOYV4SBGQ" name=",_rFax4BGaEeq9RLU6GH6FqQ" guid="-0SHvQB_Pcqq9AWOYV4SBGQ">
-  <mainDescription>O Storyboard é uma representação visual de uma história através de quadros estáticos, compostos por desenhos, colagens,&#xD;
-fotografias ou qualquer outra técnica disponível.</mainDescription>
-  <purpose>Idealizar o caminho em algum&amp;nbsp;trecho do projeto.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

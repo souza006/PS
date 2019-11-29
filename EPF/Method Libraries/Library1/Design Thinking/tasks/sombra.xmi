@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-04FjQOwUpLONhPcAI1fD2A" name=",__jJtQBGNEeq9RLU6GH6FqQ" guid="-04FjQOwUpLONhPcAI1fD2A" changeDate="2019-11-28T01:20:52.308-0200">
+  <mainDescription>É o acompanhamento do usuário (ou outro ator do processo) ao longo de um período de tempo, que inclua sua interação com o&#xD;
+produto ou serviço, que está sendo analisado. Enquanto “sombra”, o pesquisador não deve interferir na ação do usuário,&#xD;
+apenas observá-lo.</mainDescription>
+  <purpose>Analisar o desempenmho de um ator durante o desempenho com algum produto ou serviço.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cwM6P0pXFFrfjhRZGTCrAg" name=",__6NeMBGUEeq9RLU6GH6FqQ" guid="-cwM6P0pXFFrfjhRZGTCrAg" changeDate="2019-11-28T02:44:45.735-0200">
+  <mainDescription>Formado por uma série de atividades em grupo com o objetivo de estimular a criatividade e a colaboração. Esta ferramenta&#xD;
+busca fomentar a criação de soluções inovadoras. Orienta-se, portanto, que as pessoas envolvidas com as soluções devam&#xD;
+participar do workshop, seja de forma direta ou indireta.</mainDescription>
+  <purpose>Estimular a criatividade e a colaboração.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

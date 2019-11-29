@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TMTD3EjGa8EltdBwuwTDnA" name=",_CSE5ABGLEeq9RLU6GH6FqQ" guid="-TMTD3EjGa8EltdBwuwTDnA" changeDate="2019-11-28T01:00:25.548-0200">
+  <mainDescription>&lt;p>&#xD;
+    É a pesquisa de campo preliminar. Que visa fornecer informações e dados para o projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Mais tarde,as mesmas&amp;nbsp;ajudarão a definir os temas que serão explorados na Imersão em Profundidade, tais como:&#xD;
+    perfis de usuários; atores; ambientes, e os momentos do ciclo de vida do produto/serviço.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Tem por objetivo fornecer informações e dados para o projeto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

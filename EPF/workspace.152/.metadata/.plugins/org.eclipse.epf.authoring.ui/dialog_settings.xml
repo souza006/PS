@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Custom Categories.LEVEL_ID">
+		<item value="Custom Categories" key="Custom Categories.Type"/>
+		<item value="Design Thinking" key="Custom Categories.Pattern"/>
+	</section>
+	<section name="Disciplines.LEVEL_ID">
+	</section>
+</section>

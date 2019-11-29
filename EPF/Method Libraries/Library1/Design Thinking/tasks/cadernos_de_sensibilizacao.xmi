@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vXM3VnzuiAtefVBwjtQzCg" name=",_YO0LMBGNEeq9RLU6GH6FqQ" guid="-vXM3VnzuiAtefVBwjtQzCg" changeDate="2019-11-28T01:16:40.855-0200">
+  <mainDescription>Utilizados para obter informações sobre pessoas, seus universos e coletar dados do usuário com o mínimo de interferência&#xD;
+sobre suas ações. Desse modo, esta técnica permite que o próprio usuário faça o relato de suas atividades, no contexto de&#xD;
+seu dia a dia.</mainDescription>
+  <purpose>Obter informações que caracterizam os entrevistados</purpose>
+</org.eclipse.epf.uma:TaskDescription>

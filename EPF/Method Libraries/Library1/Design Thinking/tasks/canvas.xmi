@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yHrEGjKlx3kvvm7-uYPJOg" name=",_IRktkBGcEeq9RLU6GH6FqQ" guid="-yHrEGjKlx3kvvm7-uYPJOg">
+  <mainDescription>Com base na modelagem criada, você pode utilizar o Canvas para apresentar a sua ideia para amigos, sócios e potenciais&#xD;
+clientes. E colher percepções e feedbacks sobre a estruturação da sua Proposta de Valor, formas de Relacionamento com o&#xD;
+Cliente, Fontes de Receita e muito mais.</mainDescription>
+  <purpose>&lt;span style=&quot;FONT-WEIGHT: 400&quot;>Colher percepções e &lt;em>feedbacks&lt;/em> sobre a estruturação da sua Proposta de Valor, formas&#xD;
+de Relacionamento com o Cliente, Fontes de Receita e muito mais.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

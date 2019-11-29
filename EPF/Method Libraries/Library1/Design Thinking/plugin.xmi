@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_SO04YRGFEeq9RLU6GH6FqQ" guid="_SO04YRGFEeq9RLU6GH6FqQ">
+    <resourceDescriptors xmi:id="_XxDf4hGHEeq9RLU6GH6FqQ" id="-AQcvX48wThBDJwSS03pGVA" uri="tasks/reenquadramento.xmi"/>
+    <resourceDescriptors xmi:id="_PFBAARGLEeq9RLU6GH6FqQ" id="-TMTD3EjGa8EltdBwuwTDnA" uri="tasks/pesquisa_exploratria.xmi"/>
+    <resourceDescriptors xmi:id="_QUKeQBGMEeq9RLU6GH6FqQ" id="-G9fHLmtW0pfM2cRc91nC0g" uri="tasks/pesquisa_desk.xmi"/>
+    <resourceDescriptors xmi:id="_zAdeMRGMEeq9RLU6GH6FqQ" id="--F-Y2yzOmZFlUD2bRxddLg" uri="tasks/entrevistas.xmi"/>
+    <resourceDescriptors xmi:id="_6KBscRGNEeq9RLU6GH6FqQ" id="-vXM3VnzuiAtefVBwjtQzCg" uri="tasks/cadernos_de_sensibilizacao.xmi"/>
+    <resourceDescriptors xmi:id="_JKaicRGOEeq9RLU6GH6FqQ" id="-04FjQOwUpLONhPcAI1fD2A" uri="tasks/sombra.xmi"/>
+    <resourceDescriptors xmi:id="_OP9DcBGPEeq9RLU6GH6FqQ" id="-0jFKrNgqrvQCMHVM-Qjilw" uri="tasks/9_por_ques.xmi"/>
+    <resourceDescriptors xmi:id="_oPcO0RGQEeq9RLU6GH6FqQ" id="-xmatSbwMlRJ2FCCEOlAQcA" uri="tasks/definicao_de_persona.xmi"/>
+    <resourceDescriptors xmi:id="__yd0QRGQEeq9RLU6GH6FqQ" id="-G45ZBoWUDU8RmhX1iLa_zA" uri="tasks/mapa_de_empatia.xmi"/>
+    <resourceDescriptors xmi:id="_RvJcQBGREeq9RLU6GH6FqQ" id="-SdRjGee9_zeW9rtcETlNLg" uri="tasks/mapa_conceitual.xmi"/>
+    <resourceDescriptors xmi:id="_j4oKIBGREeq9RLU6GH6FqQ" id="-uuyiTntY9pkJ69bBW6xa5g" uri="tasks/mapa_mental.xmi"/>
+    <resourceDescriptors xmi:id="_CGHKgBGUEeq9RLU6GH6FqQ" id="-orPVp5Stl2Z91ny27WZxTw" uri="tasks/brainstorming.xmi"/>
+    <resourceDescriptors xmi:id="_8pTHEBGUEeq9RLU6GH6FqQ" id="-VRhaFeIHshgFp3D-sLiuRQ" uri="tasks/matriz_de_alinhamento.xmi"/>
+    <resourceDescriptors xmi:id="_3KKyoBGZEeq9RLU6GH6FqQ" id="-cwM6P0pXFFrfjhRZGTCrAg" uri="tasks/workshop_de_cocriacao.xmi"/>
+    <resourceDescriptors xmi:id="_Gei7oRGaEeq9RLU6GH6FqQ" id="-NtJy5WVYgbu8DBE4lOYKnw" uri="tasks/mural_de_possibilidades.xmi"/>
+    <resourceDescriptors xmi:id="_UhfR8BGaEeq9RLU6GH6FqQ" id="-GPkR-wVxt_Xprj9q7YH9kA" uri="tasks/selecao_de_ideias.xmi"/>
+    <resourceDescriptors xmi:id="_xYSeIBGaEeq9RLU6GH6FqQ" id="-0SHvQB_Pcqq9AWOYV4SBGQ" uri="tasks/storyboard.xmi"/>
+    <resourceDescriptors xmi:id="_Op1FkBGbEeq9RLU6GH6FqQ" id="-ED_w6aqvAFv4PB-wFsrKYQ" uri="tasks/prototipo_em_papel.xmi"/>
+    <resourceDescriptors xmi:id="_m5kAABGbEeq9RLU6GH6FqQ" id="-k8aPeQoDcbP2yom2Y5V1Fg" uri="tasks/mockups_e_maquetes.xmi"/>
+    <resourceDescriptors xmi:id="_SDHgIRGcEeq9RLU6GH6FqQ" id="-yHrEGjKlx3kvvm7-uYPJOg" uri="tasks/canvas.xmi"/>
+    <resourceDescriptors xmi:id="_l8ooQRGcEeq9RLU6GH6FqQ" id="-XJZkAm7IV7trL1Fm9YPuPg" uri="tasks/prototipo.xmi"/>
+    <resourceDescriptors xmi:id="_2gOWYBGcEeq9RLU6GH6FqQ" id="-ZETZX7BSVKzgAwcXqcGePw" uri="tasks/mvp.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_SO04UBGFEeq9RLU6GH6FqQ" name="Design Thinking" guid="_SO04UBGFEeq9RLU6GH6FqQ" briefDescription="Design thinking é uma abordagem antropocêntrica para inovação que usa ferramentas dos designers para integrar as necessidades das pessoas, as possibilidades da tecnologia e os requisitos para o sucesso dos negócios">
+    <methodElementProperty xmi:id="_SO04YxGFEeq9RLU6GH6FqQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04URGFEeq9RLU6GH6FqQ" name="Content" guid="_SO04URGFEeq9RLU6GH6FqQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04UhGFEeq9RLU6GH6FqQ" name="Categories" guid="_SO04UhGFEeq9RLU6GH6FqQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04UxGFEeq9RLU6GH6FqQ" name="Domains" guid="_SO04UxGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04VBGFEeq9RLU6GH6FqQ" name="Disciplines" guid="_SO04VBGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04VRGFEeq9RLU6GH6FqQ" name="RoleSets" guid="_SO04VRGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04VhGFEeq9RLU6GH6FqQ" name="WP Types" guid="_SO04VhGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04VxGFEeq9RLU6GH6FqQ" name="Tools" guid="_SO04VxGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04WBGFEeq9RLU6GH6FqQ" name="StandardCategories" guid="_SO04WBGFEeq9RLU6GH6FqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04WRGFEeq9RLU6GH6FqQ" name="CustomCategories" guid="_SO04WRGFEeq9RLU6GH6FqQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04WhGFEeq9RLU6GH6FqQ" name="Hidden" guid="_SO04WhGFEeq9RLU6GH6FqQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SO04WxGFEeq9RLU6GH6FqQ" name="Custom Categories" guid="_SO04WxGFEeq9RLU6GH6FqQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SO04XBGFEeq9RLU6GH6FqQ" name="CoreContent" guid="_SO04XBGFEeq9RLU6GH6FqQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_UxSOABGFEeq9RLU6GH6FqQ" name="imerso_preliminar" guid="_UxSOABGFEeq9RLU6GH6FqQ" presentationName="Imersão Preliminar" briefDescription="A imersão é um ponto de partida crítico para qualquer empreendimento de design thinking. Significa tomar decisões de design e de negócios da perspectiva do usuário final ou cliente e realmente entender e antecipar suas necessidades. Esses exercícios ajudam você a entrar na mente dos usuários, identificar padrões e desafios e relacioná-los ao problema que sua equipe precisa resolver.&#xD;&#xA;&#xD;&#xA;">
+          <methodElementProperty xmi:id="_UxS1EBGFEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_V9BBUBGFEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_R2kT4BGGEeq9RLU6GH6FqQ" name="reenquadramento" guid="_R2kT4BGGEeq9RLU6GH6FqQ" presentationName="Reenquadramento">
+            <methodElementProperty xmi:id="_XxDf4BGHEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AQcvX48wThBDJwSS03pGVA" href="uma://-AQcvX48wThBDJwSS03pGVA#-AQcvX48wThBDJwSS03pGVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CSE5ABGLEeq9RLU6GH6FqQ" name="pesquisa_exploratria" guid="_CSE5ABGLEeq9RLU6GH6FqQ" presentationName="Pesquisa Exploratória" briefDescription="Fornecer informações e dados para o projeto.">
+            <methodElementProperty xmi:id="_JskUoBGLEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TMTD3EjGa8EltdBwuwTDnA" href="uma://-TMTD3EjGa8EltdBwuwTDnA#-TMTD3EjGa8EltdBwuwTDnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uwIt8BGLEeq9RLU6GH6FqQ" name="pesquisa_desk" guid="_uwIt8BGLEeq9RLU6GH6FqQ" presentationName="Pesquisa Desk" briefDescription="Busca de informações sobre o tema do projeto ">
+            <methodElementProperty xmi:id="_QUAtQBGMEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-G9fHLmtW0pfM2cRc91nC0g" href="uma://-G9fHLmtW0pfM2cRc91nC0g#-G9fHLmtW0pfM2cRc91nC0g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_33X0sBGKEeq9RLU6GH6FqQ" name="imersao_profunda" guid="_33X0sBGKEeq9RLU6GH6FqQ" presentationName="Imersão Profunda" briefDescription="A etapa de Imersão em Profundidade inicia-se com a elaboração de um Plano de Pesquisa, ou seja, com o planejamento da pesquisa.">
+          <methodElementProperty xmi:id="_33YbwBGKEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9FLWUBGKEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XBJ6sBGMEeq9RLU6GH6FqQ" name="entrevistas" guid="_XBJ6sBGMEeq9RLU6GH6FqQ" presentationName="Entrevistas" briefDescription="obter informações do entrevistado, de diferentes formas.">
+            <methodElementProperty xmi:id="_ZYlFEBGMEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--F-Y2yzOmZFlUD2bRxddLg" href="uma://--F-Y2yzOmZFlUD2bRxddLg#--F-Y2yzOmZFlUD2bRxddLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YO0LMBGNEeq9RLU6GH6FqQ" name="cadernos_de_sensibilizacao" guid="_YO0LMBGNEeq9RLU6GH6FqQ" presentationName="Cadernos de Sensibilização" briefDescription="Obter informações que caracterizam os entrevistados">
+            <methodElementProperty xmi:id="_aqPEwBGNEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-vXM3VnzuiAtefVBwjtQzCg" href="uma://-vXM3VnzuiAtefVBwjtQzCg#-vXM3VnzuiAtefVBwjtQzCg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__jJtQBGNEeq9RLU6GH6FqQ" name="sombra" guid="__jJtQBGNEeq9RLU6GH6FqQ" presentationName="Sombra" briefDescription="É o acompanhamento do usuário ao longo de um período de tempo.">
+            <methodElementProperty xmi:id="_AUviQBGOEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-04FjQOwUpLONhPcAI1fD2A" href="uma://-04FjQOwUpLONhPcAI1fD2A#-04FjQOwUpLONhPcAI1fD2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_t0Em8BGOEeq9RLU6GH6FqQ" name="9_por_ques" guid="_t0Em8BGOEeq9RLU6GH6FqQ" presentationName="9 por ques" briefDescription="eliminar duvidas e refinar as possiveis causas de uma situação.">
+            <methodElementProperty xmi:id="_HEfiUBGPEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-0jFKrNgqrvQCMHVM-Qjilw" href="uma://-0jFKrNgqrvQCMHVM-Qjilw#-0jFKrNgqrvQCMHVM-Qjilw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_j86fIBGPEeq9RLU6GH6FqQ" name="analise" guid="_j86fIBGPEeq9RLU6GH6FqQ" presentationName="Análise" briefDescription="Momento em que sintetizamos as informações coletadas para a geração de insights.">
+          <methodElementProperty xmi:id="_j86fIRGPEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_potkUBGPEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vY8dkBGPEeq9RLU6GH6FqQ" name="definicao_de_persona" guid="_vY8dkBGPEeq9RLU6GH6FqQ" presentationName="Definição de Persona" briefDescription="Definir o perfil cliente típico com todas as principais características deste comprador.">
+            <methodElementProperty xmi:id="_XC0x0BGQEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xmatSbwMlRJ2FCCEOlAQcA" href="uma://-xmatSbwMlRJ2FCCEOlAQcA#-xmatSbwMlRJ2FCCEOlAQcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yYErsBGQEeq9RLU6GH6FqQ" name="mapa_de_empatia" guid="_yYErsBGQEeq9RLU6GH6FqQ" presentationName="Mapa de Empatia" briefDescription="Organizar os dados da fase de Imersão.">
+            <methodElementProperty xmi:id="_0phw8BGQEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-G45ZBoWUDU8RmhX1iLa_zA" href="uma://-G45ZBoWUDU8RmhX1iLa_zA#-G45ZBoWUDU8RmhX1iLa_zA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Kq8ZsBGREeq9RLU6GH6FqQ" name="mapa_conceitual" guid="_Kq8ZsBGREeq9RLU6GH6FqQ" presentationName="Mapa Conceitual" briefDescription="É uma visualização gráfica, construída para organizar visualmente dados complexos de campo.">
+            <methodElementProperty xmi:id="_NSnmkBGREeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-SdRjGee9_zeW9rtcETlNLg" href="uma://-SdRjGee9_zeW9rtcETlNLg#-SdRjGee9_zeW9rtcETlNLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cHxc8BGREeq9RLU6GH6FqQ" name="mapa_mental" guid="_cHxc8BGREeq9RLU6GH6FqQ" presentationName="Mapa Mental" briefDescription="É utilizado para ilustrar ideias e conceitos, dando-lhes forma e contexto.">
+            <methodElementProperty xmi:id="_c2s_gBGREeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uuyiTntY9pkJ69bBW6xa5g" href="uma://-uuyiTntY9pkJ69bBW6xa5g#-uuyiTntY9pkJ69bBW6xa5g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_a7Y3cBGTEeq9RLU6GH6FqQ" name="ideacao" guid="_a7Y3cBGTEeq9RLU6GH6FqQ" presentationName="Ideação" briefDescription="Na fase de Ideação deve-se utilizar as ferramentas de síntese criadas na fase de análise para estimular a criatividade e gerar soluções que estejam de acordo com o contexto do assunto trabalhado">
+          <methodElementProperty xmi:id="_a7Y3cRGTEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_cpO5UBGTEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dwYuoBGTEeq9RLU6GH6FqQ" name="brainstorming" guid="_dwYuoBGTEeq9RLU6GH6FqQ" presentationName="Brainstorming" briefDescription="É uma técnica de dinâmica de grupo, visando a criatividade dos individuos.">
+            <methodElementProperty xmi:id="_jEHSEBGTEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-orPVp5Stl2Z91ny27WZxTw" href="uma://-orPVp5Stl2Z91ny27WZxTw#-orPVp5Stl2Z91ny27WZxTw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_igGJkBGUEeq9RLU6GH6FqQ" name="matriz_de_alinhamento" guid="_igGJkBGUEeq9RLU6GH6FqQ" presentationName="Matriz de Alinhamento" briefDescription="Trata-se de um painel com três categorias: certezas, suposições e dúvidas.">
+            <methodElementProperty xmi:id="_k6nrQBGUEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-VRhaFeIHshgFp3D-sLiuRQ" href="uma://-VRhaFeIHshgFp3D-sLiuRQ#-VRhaFeIHshgFp3D-sLiuRQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__6NeMBGUEeq9RLU6GH6FqQ" name="workshop_de_cocriacao" guid="__6NeMBGUEeq9RLU6GH6FqQ" presentationName="Workshop de Cocriação" briefDescription=" Uma série de atividades em grupo com o objetivo de estimular a criatividade e a colaboração.">
+            <methodElementProperty xmi:id="_E5gpwBGVEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-cwM6P0pXFFrfjhRZGTCrAg" href="uma://-cwM6P0pXFFrfjhRZGTCrAg#-cwM6P0pXFFrfjhRZGTCrAg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6P_7IBGZEeq9RLU6GH6FqQ" name="mural_de_possibilidades" guid="_6P_7IBGZEeq9RLU6GH6FqQ" presentationName="Mural de Possibilidades" briefDescription="Colocaremos todas as ideias e possibilidades geradas pelo grupo">
+            <methodElementProperty xmi:id="_834jYBGZEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NtJy5WVYgbu8DBE4lOYKnw" href="uma://-NtJy5WVYgbu8DBE4lOYKnw#-NtJy5WVYgbu8DBE4lOYKnw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LnwRIBGaEeq9RLU6GH6FqQ" name="selecao_de_ideias" guid="_LnwRIBGaEeq9RLU6GH6FqQ" presentationName="Seleção de Ideias" briefDescription="Instrumento que auxilia na escolha da ideia que apresente maior viabilidade para implementação.">
+            <methodElementProperty xmi:id="_NNKIsBGaEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GPkR-wVxt_Xprj9q7YH9kA" href="uma://-GPkR-wVxt_Xprj9q7YH9kA#-GPkR-wVxt_Xprj9q7YH9kA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mgaVoBGaEeq9RLU6GH6FqQ" name="prototipacao" guid="_mgaVoBGaEeq9RLU6GH6FqQ" presentationName="Prototipação">
+          <methodElementProperty xmi:id="_mgaVoRGaEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ocscIBGaEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rFax4BGaEeq9RLU6GH6FqQ" name="storyboard" guid="_rFax4BGaEeq9RLU6GH6FqQ" presentationName="Storyboard" briefDescription="Representação visual de uma história">
+            <methodElementProperty xmi:id="_uqXfUBGaEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-0SHvQB_Pcqq9AWOYV4SBGQ" href="uma://-0SHvQB_Pcqq9AWOYV4SBGQ#-0SHvQB_Pcqq9AWOYV4SBGQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_A-O4QBGbEeq9RLU6GH6FqQ" name="prototipo_em_papel" guid="_A-O4QBGbEeq9RLU6GH6FqQ" presentationName="Protótipo em papel" briefDescription="Representações de interfaces gráficas com diferentes níveis de fidelidade.">
+            <methodElementProperty xmi:id="_Cuet4BGbEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ED_w6aqvAFv4PB-wFsrKYQ" href="uma://-ED_w6aqvAFv4PB-wFsrKYQ#-ED_w6aqvAFv4PB-wFsrKYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hrSkUBGbEeq9RLU6GH6FqQ" name="mockups_e_maquetes" guid="_hrSkUBGbEeq9RLU6GH6FqQ" presentationName="Mockups e maquetes" briefDescription="São modelos em escala ou de tamanho real de algum projeto ou objeto.">
+            <methodElementProperty xmi:id="_ibjjoBGbEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-k8aPeQoDcbP2yom2Y5V1Fg" href="uma://-k8aPeQoDcbP2yom2Y5V1Fg#-k8aPeQoDcbP2yom2Y5V1Fg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FJAaIBGcEeq9RLU6GH6FqQ" name="validacao" guid="_FJAaIBGcEeq9RLU6GH6FqQ" presentationName="Validação">
+          <methodElementProperty xmi:id="_FJAaIRGcEeq9RLU6GH6FqQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_HWgMcBGcEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IRktkBGcEeq9RLU6GH6FqQ" name="canvas" guid="_IRktkBGcEeq9RLU6GH6FqQ" presentationName="Canvas" briefDescription="Utilizar o Canvas para apresentar a sua ideia para amigos, sócios e potenciais clientes.">
+            <methodElementProperty xmi:id="_KNSzYBGcEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-yHrEGjKlx3kvvm7-uYPJOg" href="uma://-yHrEGjKlx3kvvm7-uYPJOg#-yHrEGjKlx3kvvm7-uYPJOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZSJ5sBGcEeq9RLU6GH6FqQ" name="prototipo" guid="_ZSJ5sBGcEeq9RLU6GH6FqQ" presentationName="Protótipo" briefDescription="É uma das formas de validar o lançamento do seu novo serviço e/ou produto">
+            <methodElementProperty xmi:id="_fdpLkBGcEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-XJZkAm7IV7trL1Fm9YPuPg" href="uma://-XJZkAm7IV7trL1Fm9YPuPg#-XJZkAm7IV7trL1Fm9YPuPg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tXVfQBGcEeq9RLU6GH6FqQ" name="mvp" guid="_tXVfQBGcEeq9RLU6GH6FqQ" presentationName="MVP">
+            <methodElementProperty xmi:id="_uMbUMBGcEeq9RLU6GH6FqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZETZX7BSVKzgAwcXqcGePw" href="uma://-ZETZX7BSVKzgAwcXqcGePw#-ZETZX7BSVKzgAwcXqcGePw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SO04XRGFEeq9RLU6GH6FqQ" name="CapabilityPatterns" guid="_SO04XRGFEeq9RLU6GH6FqQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SO04XhGFEeq9RLU6GH6FqQ" name="DeliveryProcesses" guid="_SO04XhGFEeq9RLU6GH6FqQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SO04XxGFEeq9RLU6GH6FqQ" name="ProcessContributions" guid="_SO04XxGFEeq9RLU6GH6FqQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

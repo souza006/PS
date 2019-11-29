@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmatSbwMlRJ2FCCEOlAQcA" name=",_vY8dkBGPEeq9RLU6GH6FqQ" guid="-xmatSbwMlRJ2FCCEOlAQcA" changeDate="2019-11-28T01:39:39.983-0200">
+  <mainDescription>Antes de mais nada, Persona é a representação fictícia do seu cliente ideal. Utilizamos esta técnica para definir o perfil&#xD;
+cliente típico, com todas as principais características deste comprador. Para criação da Persona você deve se basear em&#xD;
+informações reais sobre seu cliente, tais como: comportamentos e características demográficas, histórias e motivações&#xD;
+pessoais, objetivos desafios e/ou necessidades e principais preocupações.</mainDescription>
+  <purpose>Definir o perfil cliente típico.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

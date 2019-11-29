@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--F-Y2yzOmZFlUD2bRxddLg" name=",_XBJ6sBGMEeq9RLU6GH6FqQ" guid="--F-Y2yzOmZFlUD2bRxddLg" changeDate="2019-11-28T01:10:37.806-0200">
+  <mainDescription>A técnica de entrevista possibilita que obtenhamos informações do entrevistado, através de perguntas, cartões de evocação&#xD;
+cultural, dentre outras técnicas através de uma conversa.</mainDescription>
+  <purpose>obter informações do entrevistado, que poderão vir a auxiliar no desenvolvimento do projeto</purpose>
+</org.eclipse.epf.uma:TaskDescription>

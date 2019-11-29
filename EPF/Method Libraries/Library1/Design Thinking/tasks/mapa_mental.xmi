@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uuyiTntY9pkJ69bBW6xa5g" name=",_cHxc8BGREeq9RLU6GH6FqQ" guid="-uuyiTntY9pkJ69bBW6xa5g">
+  <mainDescription>O Mapa Mental é uma ferramenta utilizada para ilustrar ideias e conceitos, dando-lhes forma e contexto. Bem como, pode ser&#xD;
+usado para estabelecer relações de causa e efeito, simetrias e/ou similaridades entre perspectivas.</mainDescription>
+  <purpose>Ilustrar ideias e conceitos, dando-lhes forma e contexto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

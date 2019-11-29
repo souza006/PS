@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VRhaFeIHshgFp3D-sLiuRQ" name=",_igGJkBGUEeq9RLU6GH6FqQ" guid="-VRhaFeIHshgFp3D-sLiuRQ">
+  <mainDescription>Trata-se de um painel com três categorias: certezas, suposições e dúvidas. Nas Certezas, deve-se colocar tudo o que nos&#xD;
+parece ser verdade absoluta. Nas Dúvidas, anota-se o que não sabemos, mas possivelmente gostaríamos de saber sobre o&#xD;
+projeto. Por outro lado, nas Suposições devemos listar as informações que acreditamos que sejam verdade, porém não temos&#xD;
+certeza sobre elas. Elas devem ser listadas para que sejam debatidas em grupo.</mainDescription>
+  <purpose>Listar Suposições, duvidas e certezas.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
